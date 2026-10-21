@@ -105,18 +105,6 @@ A travel listings application for exploring and managing accommodation.
   <img src="https://img.shields.io/badge/Puppeteer-701A3D?style=flat-square&logo=puppeteer&logoColor=E5B5C7" alt="Puppeteer">
 </p>
 
-<p align="center">
-  <img src="assets/contributions-heading.svg" alt="Contributions in the last year" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Vinay99199">
-    <img src="https://ghchart.rshah.org/701A3D/Vinay99199" alt="Live GitHub contribution calendar for Vinay99199, colored in burgundy" width="100%">
-  </a>
-</p>
-
-<p align="center"><sub>Live activity from GitHub · Burgundy color theme</sub></p>
-
 ## Background
 
 - **Full Stack Development Intern** — CodeAlpha
