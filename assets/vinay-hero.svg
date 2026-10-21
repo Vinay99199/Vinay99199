@@ -1,54 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="vinayHeroTitle vinayHeroDesc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="vinayHeroTitle vinayHeroDesc">
   <title id="vinayHeroTitle">Vinay — Full Stack Developer</title>
-  <desc id="vinayHeroDesc">A burgundy technical hero banner with the tagline: Building ideas into digital experiences.</desc>
+  <desc id="vinayHeroDesc">A burgundy developer banner with a custom vector portrait, the name Vinay, and the tagline Building ideas into digital experiences.</desc>
   <defs>
-    <linearGradient id="vinayHeroBackground" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#10070C"/>
-      <stop offset="0.55" stop-color="#190B12"/>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10070C"/>
+      <stop offset="0.56" stop-color="#190B12"/>
       <stop offset="1" stop-color="#451126"/>
     </linearGradient>
-    <linearGradient id="vinayHeroGlow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#E5B5C7" stop-opacity="0.72"/>
+    <linearGradient id="heroLight" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0.52" stop-color="#E5B5C7" stop-opacity="0.84"/>
       <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="vinayHeroAura">
-      <stop offset="0" stop-color="#701A3D" stop-opacity="0.4"/>
-      <stop offset="1" stop-color="#190B12" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="vinayHeroGrid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#C77B9B" stroke-opacity="0.075" stroke-width="1"/>
+    <linearGradient id="portraitBg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#701A3D"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#9B3E60"/>
+      <stop offset="0.52" stop-color="#701A3D"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D99A79"/>
+      <stop offset="0.58" stop-color="#B9785F"/>
+      <stop offset="1" stop-color="#875344"/>
+    </linearGradient>
+    <pattern id="heroGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#C77B9B" stroke-opacity="0.065"/>
     </pattern>
-    <filter id="vinayHeroBlur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="10"/>
+    <filter id="heroGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="12"/>
     </filter>
-    <clipPath id="vinayHeroClip">
-      <rect width="1200" height="340" rx="18"/>
+    <clipPath id="portraitClip">
+      <rect x="812" y="38" width="316" height="344" rx="156"/>
+    </clipPath>
+    <clipPath id="heroClip">
+      <rect width="1200" height="420" rx="20"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#vinayHeroClip)">
-    <rect width="1200" height="340" fill="url(#vinayHeroBackground)"/>
-    <rect width="1200" height="340" fill="url(#vinayHeroGrid)"/>
-    <ellipse cx="1000" cy="170" rx="340" ry="280" fill="url(#vinayHeroAura)"/>
-    <path d="M733 422C824 183 867 87 1040-25M834 391C907 203 953 107 1134-17M945 366C1000 217 1056 128 1223 52" fill="none" stroke="#C77B9B" stroke-opacity="0.19" stroke-width="1"/>
-    <ellipse cx="1005" cy="170" rx="205" ry="83" fill="none" stroke="#C77B9B" stroke-opacity="0.29" stroke-width="1" transform="rotate(-28 1005 170)"/>
-    <ellipse cx="1005" cy="170" rx="147" ry="59" fill="none" stroke="#E5B5C7" stroke-opacity="0.19" stroke-width="1" transform="rotate(35 1005 170)"/>
-    <circle cx="1088" cy="105" r="3" fill="#E5B5C7"/>
-    <circle cx="1088" cy="105" r="10" fill="#C77B9B" fill-opacity="0.45" filter="url(#vinayHeroBlur)"/>
-    <circle cx="875" cy="218" r="2.5" fill="#C77B9B"/>
-    <circle cx="1154" cy="244" r="2" fill="#E5B5C7" fill-opacity="0.8"/>
-    <path d="M76 62H124M76 62V110M1124 278H1172M1172 230V278" fill="none" stroke="#C77B9B" stroke-opacity="0.62" stroke-width="1.5"/>
-    <text x="116" y="112" fill="#C77B9B" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="4">BUILD / SHIP / REFINE</text>
-    <text x="110" y="207" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="11">VINAY</text>
-    <text x="116" y="249" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="5">FULL STACK DEVELOPER</text>
-    <text x="116" y="283" fill="#F8F0F3" fill-opacity="0.78" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2.2">BUILDING IDEAS INTO DIGITAL EXPERIENCES</text>
-    <path d="M116 303H516" stroke="#701A3D" stroke-width="2"/>
-    <path d="M116 303H516" stroke="#E5B5C7" stroke-width="2" stroke-dasharray="72 328" stroke-linecap="round">
-      <animate attributeName="stroke-dashoffset" values="400;0" dur="5s" repeatCount="indefinite"/>
+  <g clip-path="url(#heroClip)">
+    <rect width="1200" height="420" fill="url(#heroBg)"/>
+    <rect width="1200" height="420" fill="url(#heroGrid)"/>
+    <ellipse cx="983" cy="218" rx="255" ry="220" fill="#701A3D" fill-opacity="0.21"/>
+    <path d="M688 449C789 169 900 81 1191-32M752 459C862 213 982 110 1236 41" fill="none" stroke="#C77B9B" stroke-opacity="0.2"/>
+    <ellipse cx="968" cy="211" rx="231" ry="146" fill="none" stroke="#E5B5C7" stroke-opacity="0.22" transform="rotate(-24 968 211)"/>
+    <ellipse cx="971" cy="210" rx="187" ry="119" fill="none" stroke="#C77B9B" stroke-opacity="0.3" transform="rotate(26 971 210)"/>
+    <circle cx="1087" cy="92" r="4" fill="#F8F0F3"/>
+    <circle cx="1087" cy="92" r="15" fill="#C77B9B" fill-opacity="0.4" filter="url(#heroGlow)"/>
+    <circle cx="815" cy="293" r="3" fill="#E5B5C7"/>
+    <path d="M73 68H112M73 68V107M1088 353H1127M1127 314V353" fill="none" stroke="#C77B9B" stroke-opacity="0.68" stroke-width="1.5"/>
+
+    <text x="112" y="112" fill="#C77B9B" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="4">BUILD / SHIP / REFINE</text>
+    <text x="105" y="218" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="10">VINAY</text>
+    <text x="112" y="266" fill="#E5B5C7" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="5">FULL STACK DEVELOPER</text>
+    <text x="112" y="306" fill="#F8F0F3" fill-opacity="0.82" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2.5">BUILDING IDEAS INTO</text>
+    <text x="112" y="332" fill="#F8F0F3" fill-opacity="0.82" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2.5">DIGITAL EXPERIENCES</text>
+    <path d="M112 363H555" stroke="#701A3D" stroke-width="2"/>
+    <path d="M112 363H555" stroke="#E5B5C7" stroke-width="2" stroke-dasharray="78 365" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" values="443;0" dur="5s" repeatCount="indefinite"/>
     </path>
-    <rect x="-180" y="0" width="130" height="340" fill="url(#vinayHeroGlow)" opacity="0.1" transform="skewX(-18)">
-      <animate attributeName="x" values="-220;1320" dur="12s" repeatCount="indefinite"/>
+
+    <g clip-path="url(#portraitClip)">
+      <rect x="812" y="38" width="316" height="344" fill="url(#portraitBg)"/>
+      <path d="M800 225C861 148 902 173 949 121s117-39 189 17v254H800Z" fill="#C77B9B" fill-opacity="0.12"/>
+      <circle cx="1080" cy="91" r="31" fill="#E5B5C7" fill-opacity="0.72"/>
+      <circle cx="1080" cy="91" r="48" fill="#C77B9B" fill-opacity="0.16"/>
+      <path d="M800 354C827 303 858 280 907 267L941 252H1012L1047 269C1090 282 1124 310 1142 354V402H800Z" fill="url(#shirt)"/>
+      <path d="M918 250L948 279L977 279L1009 250L1027 263L996 321H930L898 264Z" fill="#451126"/>
+      <path d="M943 246H982V286L963 303L943 285Z" fill="url(#skin)"/>
+      <path d="M918 158C919 111 941 89 970 89C1004 89 1025 115 1020 164L1013 216C1009 247 989 267 963 267C939 267 920 246 915 217Z" fill="url(#skin)"/>
+      <path d="M914 174C896 154 901 105 922 83C939 62 972 58 999 72C1025 85 1036 116 1025 151L1016 170L1007 129C987 133 966 127 949 115C943 136 931 149 914 174Z" fill="#1B1013"/>
+      <path d="M919 103C933 76 960 67 986 74C1003 79 1015 89 1022 108C999 101 978 96 960 98C945 100 933 106 919 119Z" fill="#241417"/>
+      <path d="M917 158C906 151 900 161 905 174C909 186 915 190 920 186ZM1016 157C1028 150 1034 161 1029 174C1025 186 1019 190 1014 186Z" fill="#B9785F"/>
+      <path d="M923 159Q941 151 958 160L955 179Q940 186 925 177ZM969 160Q987 151 1005 159L1003 177Q987 186 972 179Z" fill="#25191C" stroke="#171013" stroke-width="5"/>
+      <path d="M958 165H971" stroke="#171013" stroke-width="5"/>
+      <path d="M934 161H951M980 161H997" stroke="#E5B5C7" stroke-opacity="0.38" stroke-width="2"/>
+      <path d="M962 171L955 204Q962 210 973 205" fill="none" stroke="#875344" stroke-width="3" stroke-linecap="round"/>
+      <path d="M946 224Q963 230 981 222" fill="none" stroke="#4B2525" stroke-width="3" stroke-linecap="round"/>
+      <path d="M932 230Q962 253 991 229L985 245Q962 263 939 245Z" fill="#402124" fill-opacity="0.72"/>
+      <path d="M929 278L962 309L994 278" fill="none" stroke="#E5B5C7" stroke-opacity="0.55" stroke-width="2"/>
+      <path d="M962 311L951 332L965 343L975 331Z" fill="#C77B9B"/>
+      <circle cx="952" cy="314" r="3" fill="#E5B5C7"/>
+      <circle cx="963" cy="341" r="3" fill="#E5B5C7"/>
+    </g>
+    <rect x="812" y="38" width="316" height="344" rx="156" fill="none" stroke="#E5B5C7" stroke-opacity="0.72" stroke-width="2"/>
+    <rect x="801" y="27" width="338" height="366" rx="169" fill="none" stroke="#C77B9B" stroke-opacity="0.28"/>
+    <path d="M112 386H1088" stroke="url(#heroLight)" stroke-opacity="0.72"/>
+    <rect x="-170" y="0" width="115" height="420" fill="url(#heroLight)" opacity="0.08" transform="skewX(-20)">
+      <animate attributeName="x" values="-250;1350" dur="14s" repeatCount="indefinite"/>
     </rect>
-    <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#C77B9B" stroke-opacity="0.27"/>
+    <rect x="1" y="1" width="1198" height="418" rx="19" fill="none" stroke="#C77B9B" stroke-opacity="0.32"/>
   </g>
 </svg>

@@ -1,13 +1,6 @@
-<table>
-  <tr>
-    <td width="82%">
-      <img src="assets/vinay-hero.svg" alt="Vinay — Full Stack Developer · Building ideas into digital experiences" width="100%">
-    </td>
-    <td width="18%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/190246198?v=4" alt="Vinay's GitHub profile photo" width="150">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/vinay-hero.svg" alt="Vinay — Full Stack Developer, with an original burgundy vector portrait" width="100%">
+</p>
 
 <p align="center">
   <a href="https://github.com/Vinay99199"><img src="https://img.shields.io/badge/GitHub-701A3D?style=flat-square&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
@@ -112,13 +105,17 @@ A travel listings application for exploring and managing accommodation.
   <img src="https://img.shields.io/badge/Puppeteer-701A3D?style=flat-square&logo=puppeteer&logoColor=E5B5C7" alt="Puppeteer">
 </p>
 
-## Contributions in the last year
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/701A3D/Vinay99199" alt="GitHub contribution calendar for Vinay99199 covering the last year" width="100%">
+  <img src="assets/contributions-heading.svg" alt="Contributions in the last year" width="100%">
 </p>
 
-<p align="center"><sub>Contribution calendar sourced from GitHub activity.</sub></p>
+<p align="center">
+  <a href="https://github.com/Vinay99199">
+    <img src="https://ghchart.rshah.org/701A3D/Vinay99199" alt="Live GitHub contribution calendar for Vinay99199, colored in burgundy" width="100%">
+  </a>
+</p>
+
+<p align="center"><sub>Live activity from GitHub · Burgundy color theme</sub></p>
 
 ## Background
 
