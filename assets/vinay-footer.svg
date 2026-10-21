@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 76" role="img" aria-labelledby="vinayFooterTitle vinayFooterDesc">
+  <title id="vinayFooterTitle">Vinay profile footer</title>
+  <desc id="vinayFooterDesc">A slim burgundy divider with a softly animated rose highlight.</desc>
+  <defs>
+    <linearGradient id="vinayFooterBackground" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#451126"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="vinayFooterLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="vinayFooterGlow" x="-30%" y="-200%" width="160%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="76" rx="12" fill="url(#vinayFooterBackground)"/>
+  <path d="M80 38H1120" stroke="#701A3D" stroke-width="1"/>
+  <path d="M80 38H1120" stroke="url(#vinayFooterLine)" stroke-width="2" stroke-dasharray="150 890" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="1040;0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M80 38H1120" stroke="#E5B5C7" stroke-opacity="0.45" stroke-width="3" filter="url(#vinayFooterGlow)" stroke-dasharray="100 940" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="1040;0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M52 31L59 38L52 45L45 38Z" fill="#C77B9B"/>
+  <path d="M1148 31L1155 38L1148 45L1141 38Z" fill="#E5B5C7" fill-opacity="0.8"/>
+  <circle cx="600" cy="38" r="4" fill="#F8F0F3"/>
+  <circle cx="600" cy="38" r="10" fill="#C77B9B" fill-opacity="0.4" filter="url(#vinayFooterGlow)"/>
+  <rect x="1" y="1" width="1198" height="74" rx="11" fill="none" stroke="#C77B9B" stroke-opacity="0.24"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="vinayHeroTitle vinayHeroDesc">
+  <title id="vinayHeroTitle">Vinay — Full Stack Developer</title>
+  <desc id="vinayHeroDesc">A burgundy technical hero banner with the tagline: Building ideas into digital experiences.</desc>
+  <defs>
+    <linearGradient id="vinayHeroBackground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="vinayHeroGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="vinayHeroAura">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#190B12" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="vinayHeroGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#C77B9B" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <filter id="vinayHeroBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <clipPath id="vinayHeroClip">
+      <rect width="1200" height="340" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#vinayHeroClip)">
+    <rect width="1200" height="340" fill="url(#vinayHeroBackground)"/>
+    <rect width="1200" height="340" fill="url(#vinayHeroGrid)"/>
+    <ellipse cx="1000" cy="170" rx="340" ry="280" fill="url(#vinayHeroAura)"/>
+    <path d="M733 422C824 183 867 87 1040-25M834 391C907 203 953 107 1134-17M945 366C1000 217 1056 128 1223 52" fill="none" stroke="#C77B9B" stroke-opacity="0.19" stroke-width="1"/>
+    <ellipse cx="1005" cy="170" rx="205" ry="83" fill="none" stroke="#C77B9B" stroke-opacity="0.29" stroke-width="1" transform="rotate(-28 1005 170)"/>
+    <ellipse cx="1005" cy="170" rx="147" ry="59" fill="none" stroke="#E5B5C7" stroke-opacity="0.19" stroke-width="1" transform="rotate(35 1005 170)"/>
+    <circle cx="1088" cy="105" r="3" fill="#E5B5C7"/>
+    <circle cx="1088" cy="105" r="10" fill="#C77B9B" fill-opacity="0.45" filter="url(#vinayHeroBlur)"/>
+    <circle cx="875" cy="218" r="2.5" fill="#C77B9B"/>
+    <circle cx="1154" cy="244" r="2" fill="#E5B5C7" fill-opacity="0.8"/>
+    <path d="M76 62H124M76 62V110M1124 278H1172M1172 230V278" fill="none" stroke="#C77B9B" stroke-opacity="0.62" stroke-width="1.5"/>
+    <text x="116" y="112" fill="#C77B9B" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="4">BUILD / SHIP / REFINE</text>
+    <text x="110" y="207" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="11">VINAY</text>
+    <text x="116" y="249" fill="#E5B5C7" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="5">FULL STACK DEVELOPER</text>
+    <text x="116" y="283" fill="#F8F0F3" fill-opacity="0.78" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2.2">BUILDING IDEAS INTO DIGITAL EXPERIENCES</text>
+    <path d="M116 303H516" stroke="#701A3D" stroke-width="2"/>
+    <path d="M116 303H516" stroke="#E5B5C7" stroke-width="2" stroke-dasharray="72 328" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" values="400;0" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <rect x="-180" y="0" width="130" height="340" fill="url(#vinayHeroGlow)" opacity="0.1" transform="skewX(-18)">
+      <animate attributeName="x" values="-220;1320" dur="12s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#C77B9B" stroke-opacity="0.27"/>
+  </g>
+</svg>

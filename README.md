@@ -1,286 +1,93 @@
-# MASTER PROMPT — PREMIUM GITHUB PROFILE README | VINAY
+<h1 align="center">Vinay · Full Stack Developer</h1>
 
-Act as a senior frontend designer, GitHub profile specialist, SVG motion designer, and developer experience engineer.
+<p align="center">
+  <img src="assets/vinay-hero.svg" alt="Vinay — Full Stack Developer, building ideas into digital experiences" width="100%">
+</p>
 
-Your task is to **inspect and fully implement my existing GitHub Profile README**, transforming it into a premium, animated, visually distinctive developer identity inspired by the burgundy-themed reference image.
+<p align="center"><em>Building ideas into digital experiences.</em></p>
 
-Do not just give me suggestions or code snippets. Inspect the repository, create the actual files, edit the README, validate everything, and leave the completed changes ready for review.
+<p align="center">
+  <a href="https://github.com/Vinay99199">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio-gywg.onrender.com">Portfolio</a>
+</p>
 
-## 1. MY DEVELOPER IDENTITY
+## About
 
-Name: Vinay  
-GitHub username: Vinay99199  
-Professional role: Full Stack Developer  
-Interests: Web Development, AI-powered applications, Data Structures and Algorithms, and building practical software products.
+I’m Vinay, a full stack developer and B.Tech Computer Science & Engineering student at Kanpur Institute of Technology. I enjoy building practical web products end to end: shaping responsive interfaces, creating backend APIs, working with databases and authentication, and exploring useful AI-powered applications.
 
-Use only accurate information from my existing GitHub repositories and supplied resume.
+## Technology
 
-My main projects:
-1. Wanderlust — Travel Accommodation Platform
-2. PrepPilot AI — AI Job Preparation and Resume Analyzer
-3. AVONEX — Smart Ride Sharing Platform
+**Programming languages**
 
-Education: B.Tech in Computer Science & Engineering, Kanpur Institute of Technology.
+<img src="https://img.shields.io/badge/JavaScript-701A3D?style=for-the-badge&logo=javascript&logoColor=F8F0F3" alt="JavaScript">
+<img src="https://img.shields.io/badge/C%2B%2B-701A3D?style=for-the-badge&logo=cplusplus&logoColor=F8F0F3" alt="C++">
 
-Experience: Full Stack Development Intern at CodeAlpha.
+**Frontend development**
 
-Achievements and certifications may be included only when supported by my resume, profile, or available evidence.
+<img src="https://img.shields.io/badge/React-701A3D?style=for-the-badge&logo=react&logoColor=F8F0F3" alt="React">
+<img src="https://img.shields.io/badge/HTML5-701A3D?style=for-the-badge&logo=html5&logoColor=F8F0F3" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-701A3D?style=for-the-badge&logo=css3&logoColor=F8F0F3" alt="CSS3">
+<img src="https://img.shields.io/badge/EJS-701A3D?style=for-the-badge&logo=ejs&logoColor=F8F0F3" alt="EJS">
 
-Never invent project results, stars, contribution counts, coding streaks, certifications, awards, or experience.
+**Backend development and APIs**
 
-**Privacy:** Never display my phone number, private information, credentials, API keys, or secrets anywhere in the README, SVG assets, metadata, or generated files.
+<img src="https://img.shields.io/badge/Node.js-701A3D?style=for-the-badge&logo=nodedotjs&logoColor=F8F0F3" alt="Node.js">
+<img src="https://img.shields.io/badge/Express.js-701A3D?style=for-the-badge&logo=express&logoColor=F8F0F3" alt="Express.js">
+<img src="https://img.shields.io/badge/JWT-701A3D?style=for-the-badge&logo=jsonwebtokens&logoColor=F8F0F3" alt="JSON Web Tokens">
 
-## 2. FIRST — INSPECT THE EXISTING REPOSITORY
+**Databases**
 
-Before making changes:
+<img src="https://img.shields.io/badge/MongoDB-701A3D?style=for-the-badge&logo=mongodb&logoColor=F8F0F3" alt="MongoDB">
 
-1. Inspect the current folder and identify whether it is my GitHub Profile README repository.
-2. Inspect the existing README.md, repository files, assets, and available project information.
-3. Preserve accurate existing links and useful content.
-4. Confirm the GitHub username from the repository or supplied information.
-5. Identify actual project repository URLs instead of linking every project to my general GitHub profile.
-6. Do not create a duplicate repository or overwrite unrelated project files.
-7. If this is not my profile repository, explain the issue instead of modifying an unrelated project.
+**Developer tools and platforms**
 
-My profile repository should be public and named exactly `Vinay99199`.
+<img src="https://img.shields.io/badge/Git-701A3D?style=for-the-badge&logo=git&logoColor=F8F0F3" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub">
+<img src="https://img.shields.io/badge/Cloudinary-701A3D?style=for-the-badge&logo=cloudinary&logoColor=F8F0F3" alt="Cloudinary">
+<img src="https://img.shields.io/badge/Mapbox-701A3D?style=for-the-badge&logo=mapbox&logoColor=F8F0F3" alt="Mapbox">
+<img src="https://img.shields.io/badge/Razorpay-701A3D?style=for-the-badge&logo=razorpay&logoColor=F8F0F3" alt="Razorpay">
 
-## 3. VISUAL DESIGN — MATCH THE REFERENCE IMAGE
+## Featured projects
 
-Create a premium, cinematic, dark burgundy developer identity inspired by the supplied reference image.
+### AVONEX — Smart Ride Sharing Platform
 
-Use this exact color palette:
+An in-progress ride-sharing platform designed to connect passengers and drivers. The project covers account authentication, driver applications and admin approval, ride creation for approved drivers, ride search, seat bookings, and seat availability management.
 
-- Midnight black: #10070C
-- Dark wine: #190B12
-- Burgundy: #451126
-- Wine accent: #701A3D
-- Rose pink: #C77B9B
-- Pale rose: #E5B5C7
-- Ivory text: #F8F0F3
+**Stack:** React · Vite · JavaScript · Node.js · Express · MongoDB · Mongoose · JWT<br>
+**Repository:** [Vinay99199/ride-share](https://github.com/Vinay99199/ride-share)
 
-Visual direction:
+### PrepPilot AI — Job Preparation & Resume Analyzer
 
-- Deep black and burgundy backgrounds.
-- Subtle wine-red and magenta glow.
-- Elegant ivory typography.
-- Thin rose-colored borders and glowing divider lines.
-- Premium editorial layout with balanced spacing.
-- Fine technical grids and abstract orbital geometry.
-- Minimal gradients and restrained animation.
-- Clean, sophisticated presentation rather than a generic template.
-- Mobile-friendly layout with readable text.
-- Consistent colors across all banners, badges, project sections, and footer.
+An AI-assisted job preparation platform with resume and job-description analysis, skill-gap identification, generated interview questions and reports, and ATS-oriented resume PDF generation. It also includes user authentication and protected routes.
 
-Do not switch to cyan, blue, green neon, or unrelated color themes.
+**Stack:** React · Vite · Node.js · Express · MongoDB · JWT · Google Gemini · Puppeteer<br>
+**Repository:** [Vinay99199/prep-pilot-ai](https://github.com/Vinay99199/prep-pilot-ai)
 
-## 4. CREATE A CUSTOM ANIMATED SVG HERO
+### Wanderlust — Travel Accommodation Platform
 
-Create this actual file:
+A travel listings application with user accounts and profiles, accommodation listing management, reviews, favourites, image uploads, map support, and Razorpay payment integration.
 
-`assets/vinay-hero.svg`
+**Stack:** Node.js · Express · EJS · MongoDB · Cloudinary · Mapbox · Razorpay<br>
+**Repository:** [Vinay99199/Wanderlust](https://github.com/Vinay99199/Wanderlust)
 
-Requirements:
+## GitHub activity
 
-- SVG viewBox approximately 1200 × 340.
-- Display my name: VINAY.
-- Display my role: FULL STACK DEVELOPER.
-- Add a short supporting tagline: BUILDING IDEAS INTO DIGITAL EXPERIENCES.
-- Create a burgundy-to-wine gradient background.
-- Add subtle animated light sweeps and a glowing underline.
-- Include a fine technical grid, abstract orbital paths, and minimal geometric details.
-- Use SVG gradients, paths, and filters where appropriate.
-- Use lightweight SVG SMIL animations when supported.
-- Keep all text sharp, legible, and appropriately spaced.
-- Avoid excessive motion, visual clutter, and oversized effects.
-- Use unique IDs for SVG gradients and filters.
-- Do not embed JavaScript, external scripts, or external image dependencies.
-- Keep the design visually attractive when animation is unsupported.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay99199&show_icons=true&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&bg_color=10070C&border_color=451126&ring_color=701A3D" alt="GitHub account statistics for Vinay99199">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay99199&layout=compact&title_color=E5B5C7&text_color=F8F0F3&bg_color=10070C&border_color=451126" alt="Most-used programming languages for Vinay99199">
+</p>
 
-The hero must look like a custom-designed digital identity, not a stock banner.
+## Experience & education
 
-## 5. REDESIGN README.MD
+- **Full Stack Development Intern** — CodeAlpha
+- **B.Tech, Computer Science & Engineering** — Kanpur Institute of Technology
 
-Implement the following sections in this order.
+## Connect
 
-### A. Hero section
+- [GitHub](https://github.com/Vinay99199)
+- [Portfolio](https://portfolio-gywg.onrender.com)
 
-Embed the custom hero SVG using the correct relative path.
-
-Include my name, professional role, and concise tagline.
-
-### B. Profile introduction
-
-Write a short, authentic introduction based on my actual background.
-
-Mention my interest in full-stack development, backend APIs, databases, authentication, and practical AI-powered applications.
-
-Do not exaggerate my experience or describe me as a senior engineer.
-
-### C. Technology stack
-
-Create attractive, categorized technology badges using the burgundy palette.
-
-Use only technologies supported by my resume or existing projects.
-
-Categories:
-
-- Programming Languages
-- Frontend Development
-- Backend Development and APIs
-- Databases
-- Developer Tools and Platforms
-
-Use recognizable technology logos through shields.io badges or other reliable image sources.
-
-Include Java, JavaScript, SQL, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB, MySQL, JWT, Git, GitHub, Vercel, and Cloudinary where appropriate.
-
-Do not add technologies just to make the profile look impressive.
-
-### D. Featured projects
-
-Create three visually organized project sections.
-
-**1. AVONEX — Smart Ride Sharing Platform**
-
-Describe it as a platform under development that aims to connect passengers and drivers.
-
-Mention verified implemented or in-progress features such as authentication, driver approval, ride creation, booking, and seat management.
-
-**2. PrepPilot AI — AI Job Preparation and Resume Analyzer**
-
-Describe resume analysis, skill-gap identification, AI-generated interview questions, authentication, and ATS-friendly PDF generation according to the existing implementation.
-
-**3. Wanderlust — Travel Accommodation Platform**
-
-Describe accommodation listings, authentication, reviews, favourites, user profiles, image uploads, maps, and payment integration according to the existing implementation.
-
-For every project:
-
-- Find its actual repository URL.
-- Include a working GitHub repository link.
-- Include a live demo link only if a real working deployment is verified.
-- Display its technology stack.
-- Use a concise description.
-- Do not claim unfinished features are complete.
-- Use elegant burgundy accents and consistent section formatting.
-
-Do not invent repository names or demo URLs.
-
-### E. GitHub statistics
-
-Add a clean statistics section using reliable, GitHub-compatible image endpoints if available.
-
-Potential widgets:
-
-- GitHub contribution and account statistics.
-- Most-used programming languages.
-- Contribution streak, if supported by a reliable service.
-- Genuine contribution activity.
-
-Use the correct username `Vinay99199`.
-
-Apply dark burgundy backgrounds and rose-colored highlights wherever the service supports customization.
-
-Never fabricate numbers, language percentages, rankings, streaks, or contributions.
-
-If a service is broken or unavailable, omit it or provide a clear alternative.
-
-Do not use decorative sample data as if it were genuine statistics.
-
-### F. Achievements and certifications
-
-Include only verified items found in my resume, GitHub profile, or supplied evidence.
-
-Potential items to verify:
-
-- CodeAlpha Full Stack Development Internship.
-- Data Structures and Algorithms using Java certification.
-- LeetCode 50-day and 100-day badges.
-- Relevant coding competitions and certificates.
-
-Add links only when their actual destinations are known and verified.
-
-### G. Connect with me
-
-Include my GitHub profile and verified professional links.
-
-Inspect existing profile links for LinkedIn and my portfolio.
-
-Do not invent personal URLs. If a destination cannot be verified, leave it out or mark it for my review.
-
-Never include my phone number or private contact details.
-
-### H. Animated footer
-
-Create this actual file:
-
-`assets/vinay-footer.svg`
-
-Use a slim burgundy gradient, a fine glowing rose line, subtle motion, and a minimal geometric detail.
-
-Keep the footer lightweight and consistent with the hero.
-
-## 6. GITHUB COMPATIBILITY
-
-GitHub Profile README is not a regular website.
-
-Therefore:
-
-- Use GitHub-compatible Markdown and supported HTML.
-- Use SVG assets through relative image paths.
-- Do not rely on custom CSS files, JavaScript, event handlers, or iframes.
-- Do not assume GitHub supports every SVG animation feature.
-- Do not use unsupported layout techniques that make the README unreadable.
-- Keep the content usable when images or animations fail.
-- Ensure the README remains readable on desktop and mobile.
-- Use concise sections and avoid excessive badges.
-- Do not embed secrets or private information.
-
-## 7. EXPECTED FILE STRUCTURE
-
-Create or update only the files required for this implementation.
-
-Expected structure:
-
-`README.md`
-`assets/vinay-hero.svg`
-`assets/vinay-footer.svg`
-
-If additional assets are genuinely needed, explain why before creating unnecessary files.
-
-Do not delete existing useful assets.
-
-## 8. QUALITY CHECKS
-
-After implementation:
-
-1. Validate both SVG files as well-formed XML.
-2. Check every relative asset path.
-3. Check project repository and profile links.
-4. Check image URLs and identify likely broken external widgets.
-5. Verify that the color palette remains consistent.
-6. Check the README for spelling and formatting issues.
-7. Confirm all claims are supported by available information.
-8. Search all modified files for my phone number and ensure it has not been added.
-9. Ensure no API keys, credentials, tokens, or secrets are exposed.
-10. Review the final Markdown rendering as far as local tools permit.
-
-## 9. WORKFLOW AND FINAL REPORT
-
-Work directly in the existing profile repository.
-
-Do not stop after inspecting the files or presenting a plan. Complete the implementation.
-
-Do not automatically commit, push, publish, or modify remote repositories.
-
-After completing the work, report:
-
-- Files created and modified.
-- Sections implemented.
-- SVG validation results.
-- Broken or unverified links.
-- Any unavailable external statistics widgets.
-- Any details that still require my confirmation.
-- Exact steps to preview the README and publish changes using GitHub Desktop.
-
-**Final objective:** Create a distinctive, polished, burgundy-themed GitHub Profile README that looks professionally art-directed, showcases my real developer identity, and uses custom SVG motion without sacrificing accuracy, compatibility, or privacy.
+<p align="center">
+  <img src="assets/vinay-footer.svg" alt="Burgundy animated footer divider" width="100%">
+</p>
