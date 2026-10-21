@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 184" role="img" aria-labelledby="preppilotTitle preppilotDesc">
+  <title id="preppilotTitle">PrepPilot AI</title>
+  <desc id="preppilotDesc">AI job preparation and resume analyzer.</desc>
+  <defs>
+    <linearGradient id="preppilotBackground" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10070C"/>
+      <stop offset="0.52" stop-color="#451126"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="preppilotLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="preppilotGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#E5B5C7" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="preppilotClip"><rect width="1200" height="184" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#preppilotClip)">
+    <rect width="1200" height="184" fill="url(#preppilotBackground)"/>
+    <rect width="1200" height="184" fill="url(#preppilotGrid)"/>
+    <path d="M839 18L947 84L1031 34L1129 100L1210 46M843 154L943 104L1040 146L1127 91L1209 133" fill="none" stroke="#C77B9B" stroke-opacity="0.32"/>
+    <circle cx="947" cy="84" r="5" fill="#E5B5C7" fill-opacity="0.8"/>
+    <circle cx="1031" cy="34" r="4" fill="#C77B9B"/>
+    <circle cx="1129" cy="100" r="5" fill="#E5B5C7" fill-opacity="0.75"/>
+    <circle cx="943" cy="104" r="4" fill="#C77B9B"/>
+    <circle cx="1040" cy="146" r="4" fill="#E5B5C7" fill-opacity="0.75"/>
+    <path d="M65 46H101M65 46V82M1135 138H1171M1171 102V138" fill="none" stroke="#C77B9B" stroke-opacity="0.75"/>
+    <text x="96" y="67" fill="#E5B5C7" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="4">02  /  AI + CAREERS</text>
+    <text x="92" y="119" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="1">PrepPilot AI</text>
+    <text x="96" y="150" fill="#E5B5C7" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">JOB PREPARATION  ·  RESUME ANALYSIS  ·  INTERVIEW PRACTICE</text>
+    <path d="M96 166H1104" stroke="url(#preppilotLine)" stroke-width="1.5"/>
+    <rect x="1" y="1" width="1198" height="182" rx="15" fill="none" stroke="#C77B9B" stroke-opacity="0.34"/>
+  </g>
+</svg>
