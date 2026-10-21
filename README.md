@@ -16,24 +16,25 @@ I’m currently developing **AVONEX**, a ride-sharing platform, and exploring ho
 ## Selected work
 
 <p align="center">
-  <img src="assets/project-avonex.svg" alt="AVONEX — Smart Ride Sharing Platform, in development" width="100%">
+  <img src="assets/project-wanderlust.svg" alt="Wanderlust — Travel Accommodation Platform" width="100%">
 </p>
 
-An in-development platform aiming to connect passengers and drivers.
+Travel accommodation platform for exploring and managing stays.
 
-- Authentication, driver applications, and an admin approval flow
-- Ride creation and search, seat booking, and seat availability management
+- Create and manage listings, upload images, and leave reviews
+- User profiles and favourites, map support, and Razorpay integration
 
 <p>
-  <img src="https://img.shields.io/badge/React-451126?style=flat-square&logo=react&logoColor=E5B5C7" alt="React">
-  <img src="https://img.shields.io/badge/Vite-451126?style=flat-square&logo=vite&logoColor=E5B5C7" alt="Vite">
   <img src="https://img.shields.io/badge/Node.js-451126?style=flat-square&logo=nodedotjs&logoColor=E5B5C7" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-451126?style=flat-square&logo=express&logoColor=E5B5C7" alt="Express">
+  <img src="https://img.shields.io/badge/EJS-451126?style=flat-square&logo=ejs&logoColor=E5B5C7" alt="EJS">
   <img src="https://img.shields.io/badge/MongoDB-451126?style=flat-square&logo=mongodb&logoColor=E5B5C7" alt="MongoDB">
-  <img src="https://img.shields.io/badge/JWT-451126?style=flat-square&logo=jsonwebtokens&logoColor=E5B5C7" alt="JWT">
+  <img src="https://img.shields.io/badge/Cloudinary-451126?style=flat-square&logo=cloudinary&logoColor=E5B5C7" alt="Cloudinary">
+  <img src="https://img.shields.io/badge/Mapbox-451126?style=flat-square&logo=mapbox&logoColor=E5B5C7" alt="Mapbox">
+  <img src="https://img.shields.io/badge/Razorpay-451126?style=flat-square&logo=razorpay&logoColor=E5B5C7" alt="Razorpay">
 </p>
 
-<p align="right"><a href="https://github.com/Vinay99199/ride-share">Explore AVONEX on GitHub →</a></p>
+<p align="right"><a href="https://github.com/Vinay99199/Wanderlust">Explore Wanderlust on GitHub →</a></p>
 
 <p align="center">
   <img src="assets/project-preppilot.svg" alt="PrepPilot AI — AI Job Preparation and Resume Analyzer" width="100%">
@@ -53,29 +54,27 @@ An AI-assisted job-preparation app that helps users connect their resume to a ta
   <img src="https://img.shields.io/badge/Gemini-451126?style=flat-square&logo=googlegemini&logoColor=E5B5C7" alt="Google Gemini">
   <img src="https://img.shields.io/badge/Puppeteer-451126?style=flat-square&logo=puppeteer&logoColor=E5B5C7" alt="Puppeteer">
 </p>
-
 <p align="right"><a href="https://github.com/Vinay99199/prep-pilot-ai">Explore PrepPilot AI on GitHub →</a></p>
 
 <p align="center">
-  <img src="assets/project-wanderlust.svg" alt="Wanderlust — Travel Accommodation Platform" width="100%">
+  <img src="assets/project-avonex.svg" alt="AVONEX — Smart Ride Sharing Platform, in development" width="100%">
 </p>
 
-A travel listings application for exploring and managing accommodation.
+An in-development platform aiming to connect passengers and drivers.
 
-- Listing management, image uploads, and reviews
-- User profiles and favourites, map support, and Razorpay integration
+- Authentication, driver applications, and an admin approval flow
+- Ride creation and search, seat booking, and seat availability management
 
 <p>
+  <img src="https://img.shields.io/badge/React-451126?style=flat-square&logo=react&logoColor=E5B5C7" alt="React">
+  <img src="https://img.shields.io/badge/Vite-451126?style=flat-square&logo=vite&logoColor=E5B5C7" alt="Vite">
   <img src="https://img.shields.io/badge/Node.js-451126?style=flat-square&logo=nodedotjs&logoColor=E5B5C7" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-451126?style=flat-square&logo=express&logoColor=E5B5C7" alt="Express">
-  <img src="https://img.shields.io/badge/EJS-451126?style=flat-square&logo=ejs&logoColor=E5B5C7" alt="EJS">
   <img src="https://img.shields.io/badge/MongoDB-451126?style=flat-square&logo=mongodb&logoColor=E5B5C7" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Cloudinary-451126?style=flat-square&logo=cloudinary&logoColor=E5B5C7" alt="Cloudinary">
-  <img src="https://img.shields.io/badge/Mapbox-451126?style=flat-square&logo=mapbox&logoColor=E5B5C7" alt="Mapbox">
-  <img src="https://img.shields.io/badge/Razorpay-451126?style=flat-square&logo=razorpay&logoColor=E5B5C7" alt="Razorpay">
+  <img src="https://img.shields.io/badge/JWT-451126?style=flat-square&logo=jsonwebtokens&logoColor=E5B5C7" alt="JWT">
 </p>
 
-<p align="right"><a href="https://github.com/Vinay99199/Wanderlust">Explore Wanderlust on GitHub →</a></p>
+<p align="right"><a href="https://github.com/Vinay99199/ride-share">Explore AVONEX on GitHub →</a></p>
 
 ## Technology
 
