@@ -90,40 +90,30 @@ I build complete digital products—from polished, responsive interfaces to secu
 
 ## 🧰 Technology
 
-<p><strong>Languages</strong><br>
-  <img src="https://img.shields.io/badge/JavaScript-701A3D?style=flat-square&logo=javascript&logoColor=E5B5C7" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-701A3D?style=flat-square&logo=html5&logoColor=E5B5C7" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-701A3D?style=flat-square&logo=css3&logoColor=E5B5C7" alt="CSS3">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript, HTML and CSS" height="54">
+  <img src="https://skillicons.dev/icons?i=react,vite,ejs" alt="React, Vite and EJS" height="54">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express and MongoDB" height="54">
 </p>
 
-<p><strong>Frontend</strong><br>
-  <img src="https://img.shields.io/badge/React-701A3D?style=flat-square&logo=react&logoColor=E5B5C7" alt="React">
-  <img src="https://img.shields.io/badge/EJS-701A3D?style=flat-square&logo=ejs&logoColor=E5B5C7" alt="EJS">
-  <img src="https://img.shields.io/badge/Vite-701A3D?style=flat-square&logo=vite&logoColor=E5B5C7" alt="Vite">
-</p>
-
-<p><strong>Backend &amp; data</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-701A3D?style=flat-square&logo=nodedotjs&logoColor=E5B5C7" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-701A3D?style=flat-square&logo=express&logoColor=E5B5C7" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-701A3D?style=flat-square&logo=mongodb&logoColor=E5B5C7" alt="MongoDB">
-  <img src="https://img.shields.io/badge/JWT-701A3D?style=flat-square&logo=jsonwebtokens&logoColor=E5B5C7" alt="JWT">
-</p>
-
-<p><strong>Tools &amp; integrations</strong><br>
-  <img src="https://img.shields.io/badge/Git-701A3D?style=flat-square&logo=git&logoColor=E5B5C7" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-701A3D?style=flat-square&logo=github&logoColor=E5B5C7" alt="GitHub">
-  <img src="https://img.shields.io/badge/Cloudinary-701A3D?style=flat-square&logo=cloudinary&logoColor=E5B5C7" alt="Cloudinary">
-  <img src="https://img.shields.io/badge/Mapbox-701A3D?style=flat-square&logo=mapbox&logoColor=E5B5C7" alt="Mapbox">
-  <img src="https://img.shields.io/badge/Razorpay-701A3D?style=flat-square&logo=razorpay&logoColor=E5B5C7" alt="Razorpay">
-  <img src="https://img.shields.io/badge/Gemini-701A3D?style=flat-square&logo=googlegemini&logoColor=E5B5C7" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Puppeteer-701A3D?style=flat-square&logo=puppeteer&logoColor=E5B5C7" alt="Puppeteer">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" height="54">
+  <img src="https://skillicons.dev/icons?i=cloudflare,gcp" alt="Cloud integrations" height="54">
+  <img src="https://skillicons.dev/icons?i=puppeteer" alt="Puppeteer" height="54">
 </p>
 
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinay99199&show_icons=true&theme=transparent&hide_border=true&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=C77B9B" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay99199&layout=compact&theme=transparent&hide_border=true&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="Top languages">
+  <a href="https://github.com/Vinay99199">
+    <img src="https://ghchart.rshah.org/A78BFA/Vinay99199" alt="Vinay's GitHub contribution chart">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Vinay99199?style=for-the-badge&logo=github&label=Followers&color=7C3AED&labelColor=0B1020&logoColor=F8FAFC" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Vinay99199?style=for-the-badge&logo=github&label=Stars&color=22D3EE&labelColor=0B1020&logoColor=F8FAFC" alt="GitHub stars">
+  <a href="https://github.com/Vinay99199?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Repositories"></a>
 </p>
 
 ## 🎓 Background
@@ -136,8 +126,8 @@ I build complete digital products—from polished, responsive interfaces to secu
 <p align="center">
   Open to internships, collaborations, and impactful full-stack opportunities.
   <br><br>
-  <a href="https://github.com/Vinay99199"><img src="https://img.shields.io/badge/GitHub-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub"></a>
-  <a href="https://portfolio-gywg.onrender.com"><img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&logo=googlechrome&logoColor=F8F0F3" alt="Portfolio"></a>
+  <a href="https://github.com/Vinay99199"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub"></a>
+  <a href="https://portfolio-gywg.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=F8FAFC" alt="Portfolio"></a>
 </p>
 
 <p align="center">
